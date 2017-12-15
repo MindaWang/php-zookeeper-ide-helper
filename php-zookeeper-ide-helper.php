@@ -28,5 +28,25 @@ class Zookeeper {
     public static function getState  {
         
     }
-    public static function set
+
+    public static function setAcl(){
+
+    }
+    
+    public static function setDebugLevel(){
+
+    }
+
+    public static function setDeterministicConnOrder(){
+
+    }
+    
+    public static function setLogStream(){
+
+    }
+
+    public static function setWatcher(){
+
+    }
+
 }
